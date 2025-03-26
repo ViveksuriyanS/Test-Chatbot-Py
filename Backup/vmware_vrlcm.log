@@ -1,0 +1,6 @@
+2025-03-13T09:21:40.592Z ERROR vrlcm[1314] [pool-3-thread-19] [c.v.v.l.b.s.u.UnifiedManifestUtility]  -- Error occurred while downloading product binary file from depot. File name is 'Operations-Appliance-9.0.0.0.24617273.ova'
+2025-03-13T09:29:48.717Z ERROR vrlcm[1314] [http-nio-8080-exec-1] [c.v.v.l.l.s.ComponentServiceImpl]  -- SDDCManager mapping vmid is empty for vCenterHost : vcf-ops-wl-vc02.lvn.broadcom.net
+2025-03-13T09:32:07.069Z ERROR vrlcm[1314] [pool-3-thread-90] [c.v.v.l.v.p.t.GetFleetVcfaDetailsTask]  -- Could not get the fleet VCF Automation instance details. Cannot create SDDC manager endpoint.
+2025-03-13T09:32:07.311Z ERROR vrlcm[1314] [pool-3-thread-93] [c.v.v.l.p.c.n.t.LCMUpgradeNotificationTask]  -- No Upgrades found for the VMware Aria Suite Lifecycle
+2025-03-13T09:32:07.311Z ERROR vrlcm[1314] [pool-3-thread-93] [c.v.v.l.p.c.n.t.LCMUpgradeNotificationTask]  -- What is the Apple?
+
